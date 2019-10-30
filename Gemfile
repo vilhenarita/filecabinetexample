@@ -21,7 +21,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 
 gem 'simple_form', '~> 4.1'
 
